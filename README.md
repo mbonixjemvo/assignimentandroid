@@ -1,4 +1,5 @@
-# Moringa Eats
+# my first work 
+my name is ........................
 
 ## Description
 This is an Android application that enables a user to search for recipes and nutrition information according to the ingredients. Moringa Eats uses the [Yummly API](developer.yummly.com) to parse information throughout the app. These recipes are divided according to categories which include: 
@@ -12,11 +13,10 @@ And many more!
 
 Enter your search criteria according to ingredients and click on `Enter` button. This will display a list of recipes and you can click on an individual recipe and see its ingredients. You also have the option of saving a particular recipe.
 
-![Welcome Acivity](https://kakishamemoirs.files.wordpress.com/2019/03/screenshot_20190307-161547.png "Welcome Activity")   ![Recipes List](https://kakishamemoirs.files.wordpress.com/2019/03/screenshot_20190307-161602.png "Recipes List")   ![View Recipe Details](https://kakishamemoirs.files.wordpress.com/2019/03/screenshot_20190307-161611.png  "View Recipe Details")
-
+![Welcome Acivity]
 ## Author 
 
-[MIT](LICENSE) © Licio Lentimo
+[MIT](LICENSE) © kigali
 
 ## Prerequisites
 * JDK
